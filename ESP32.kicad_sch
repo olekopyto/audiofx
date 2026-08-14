@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "87aaf1c0-bdbc-449b-a33f-b00db35dd346")
+	(uuid "4e612e84-d08f-43ab-ac57-00b7497376bf")
 	(paper "A4")
 	(lib_symbols
 		(symbol "esp32:T-Display-S3"
