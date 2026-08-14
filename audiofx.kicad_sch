@@ -1,0 +1,198 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "aae363e5-bb9b-4e8b-bcb3-9a42adce8813")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 125.73 74.93)
+		(size 36.83 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "25f6dced-3261-484d-bc51-a6fa6504176e")
+		(property "Sheetname" "ESP32"
+			(at 125.73 74.2184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32.kicad_sch"
+			(at 125.73 117.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "audiofx"
+				(path "/aae363e5-bb9b-4e8b-bcb3-9a42adce8813"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 50.8)
+		(size 26.67 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "584270b1-aa0e-4dd9-9d31-c8618c7cbf5a")
+		(property "Sheetname" "PSU"
+			(at 81.28 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PSU.kicad_sch"
+			(at 81.28 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "audiofx"
+				(path "/aae363e5-bb9b-4e8b-bcb3-9a42adce8813"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 223.52 60.96)
+		(size 40.64 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6491a4aa-bc0c-4223-be67-2f04673d2b26")
+		(property "Sheetname" "Output"
+			(at 223.52 60.2484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Output.kicad_sch"
+			(at 223.52 123.7746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "audiofx"
+				(path "/aae363e5-bb9b-4e8b-bcb3-9a42adce8813"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 48.26)
+		(size 36.83 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c507a14d-d9d8-4e36-ae17-7075eb96f1b4")
+		(property "Sheetname" "Input"
+			(at 175.26 47.5484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "input.kicad_sch"
+			(at 175.26 99.6446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "audiofx"
+				(path "/aae363e5-bb9b-4e8b-bcb3-9a42adce8813"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
